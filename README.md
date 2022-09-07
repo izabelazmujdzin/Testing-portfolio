@@ -33,3 +33,6 @@
 2. [Błąd 404 po kliknięciu "wyszukaj" bez wpisywania frazy w wyszukiwarkę ](https://drive.google.com/file/d/1HhSpaZ9qSyDzfMgy9wgQ7nwWfzCFy4iU/view?usp=sharing)
 3. [Brak walidacji przy roku urodzenia w formularzu rejestracyjnym](https://drive.google.com/file/d/1ZBxBIbhetzD6ho5yqEPqyhqKwC7UqcuE/view?usp=sharing)
 4. [Możesz zamówić większą ilość produktu niż jest na stanie w danym rozmiarze](https://drive.google.com/file/d/1XcW8gZroPTt4NtVbkvhWRnlwgs3czzVN/view?usp=sharing)
+
+## MINDMAP FOR VISTULA
+- [MINDMAP](https://drive.google.com/file/d/149zTwZcEABu7nut2eWt4UVBjpC78iti0/view?usp=sharing)
