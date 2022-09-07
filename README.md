@@ -27,7 +27,7 @@
 
 ## MY BUGS FOR www.vistula.pl
 
-[Po najechaniu na ikonę wyszukiwarki tzn "lupkę" kursor nie zmienia wyglądu](../VISTULA-1.doc)
-[Błąd 404 po kliknięciu "wyszukaj" bez wpisywania frazy w wyszukiwarkę ](../VISTULA-2.doc)
-[Brak walidacji przy roku urodzenia w formularzu rejestracyjnym](../VISTULA-3.doc)
-[Możesz zamówić większą ilość produktu niż jest na stanie w danym rozmiarze](../VISTULA-5.doc)
+1. [Po najechaniu na ikonę wyszukiwarki tzn "lupkę" kursor nie zmienia wyglądu](../VISTULA-1.doc)
+2. [Błąd 404 po kliknięciu "wyszukaj" bez wpisywania frazy w wyszukiwarkę ](../VISTULA-2.doc)
+3. [Brak walidacji przy roku urodzenia w formularzu rejestracyjnym](../VISTULA-3.doc)
+4. [Możesz zamówić większą ilość produktu niż jest na stanie w danym rozmiarze](../VISTULA-5.doc)
