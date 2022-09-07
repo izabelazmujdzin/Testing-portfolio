@@ -25,6 +25,13 @@
 -   Szkolenie indywidualne tester manualny - Waldemar Szafraniec
 -   Praktyczny kurs testowania oprogramowania - Udemy
 
+## RECOMENDED BLOGS 
+
+1. wyszkolewas.com.pl
+2. testuj.pl
+3. testowanie-oprogramowania.pl
+4. newsletter testowasroda.pl
+
 ## MY TEST CASES FOR www.vistula.pl
 
 [TEST CASES](https://drive.google.com/file/d/1hIgI6tbhCGHe_siT2lICC1N0yTqy9t23/view?usp=sharing)
