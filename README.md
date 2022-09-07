@@ -23,7 +23,7 @@
 ## COURSES
 
 -   Szkolenie indywidualne tester manualny - Waldemar Szafraniec
--   Prktyczny kurs testowania oprogramowania - Udemy
+-   Praktyczny kurs testowania oprogramowania - Udemy
 
 ## MY TEST CASES FOR www.vistula.pl
 
