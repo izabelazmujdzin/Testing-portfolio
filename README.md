@@ -31,6 +31,7 @@
 2. testuj.pl
 3. testowanie-oprogramowania.pl
 4. newsletter testowasroda.pl
+5. Dareit.io
 
 ## MY TEST CASES FOR www.vistula.pl
 
