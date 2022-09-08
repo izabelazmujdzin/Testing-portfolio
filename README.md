@@ -39,9 +39,9 @@
 ## MY BUGS FOR www.vistula.pl
 
 1. [Po najechaniu na ikonę wyszukiwarki tzn "lupkę" kursor nie zmienia wyglądu](https://drive.google.com/file/d/1xAXvhnMgdhSfTkg-Q8t8GBgxQMqv-hX1/view?usp=sharing)
-2. [Błąd 404 po kliknięciu "wyszukaj" bez wpisywania frazy w wyszukiwarkę ](https://drive.google.com/file/d/1HhSpaZ9qSyDzfMgy9wgQ7nwWfzCFy4iU/view?usp=sharing) [-Załącznik](https://drive.google.com/file/d/1tYa0R_hqEI8gQrHxwzJTVx0rKNqisiAO/view?usp=sharing)
+2. [Błąd 404 po kliknięciu "wyszukaj" bez wpisywania frazy w wyszukiwarkę ](https://drive.google.com/file/d/1HhSpaZ9qSyDzfMgy9wgQ7nwWfzCFy4iU/view?usp=sharing) [- Załącznik](https://drive.google.com/file/d/1tYa0R_hqEI8gQrHxwzJTVx0rKNqisiAO/view?usp=sharing)
 3. [Brak walidacji przy roku urodzenia w formularzu rejestracyjnym](https://drive.google.com/file/d/1ZBxBIbhetzD6ho5yqEPqyhqKwC7UqcuE/view?usp=sharing)
-4. [Można zamówić większą ilość produktu niż jest na stanie w danym rozmiarze](https://drive.google.com/file/d/1XcW8gZroPTt4NtVbkvhWRnlwgs3czzVN/view?usp=sharing) [-Załącznik](https://drive.google.com/file/d/1OmRWGdC6PYT6jeVftuZsA1_rl3mmVdsC/view?usp=sharing)
+4. [Można zamówić większą ilość produktu niż jest na stanie w danym rozmiarze](https://drive.google.com/file/d/1XcW8gZroPTt4NtVbkvhWRnlwgs3czzVN/view?usp=sharing) [- Załącznik](https://drive.google.com/file/d/1OmRWGdC6PYT6jeVftuZsA1_rl3mmVdsC/view?usp=sharing)
 
 ## MY REPORT FOR www.vistula.pl
 
