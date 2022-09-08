@@ -6,7 +6,7 @@
 -   Jira
 -   Postman
 -   GIT
--   GITHUB
+-   GitHub
 -   Jmeter -basic
 
 ## TECH SKILLS
