@@ -20,6 +20,10 @@
 -   CSS
 -   SCRUM, AGILE
 
+## EXPERIENCE
+
+- Udział w testach prototypu aplikacji Zoddy
+
 ## COURSES
 
 -   Szkolenie indywidualne tester manualny - Waldemar Szafraniec
